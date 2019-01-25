@@ -1,0 +1,1 @@
+﻿positionForPages[19]={page:19,positions:[{word:"1",left:0.222774,top:0.091559,width:0.013693,height:0.019691},{word:"6",left:0.236467,top:0.091559,width:0.013693,height:0.019691}]};
